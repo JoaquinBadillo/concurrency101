@@ -30,7 +30,7 @@ which should return
 76127
 ```
 
-More documentation can be consulted visiting the github pages for this repository.
+More documentation was generated using docstrings and Hex, it can be consulted visiting the [GitHub Pages](https://joaquinbadillo.github.io/concurrency101/) for this repository or generated after executing `mix docs`. 
 
 ---
 
